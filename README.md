@@ -1,3 +1,2 @@
 # hello-world
-testi repo
-muokattu
+for full stack course
